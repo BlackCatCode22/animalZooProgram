@@ -1,5 +1,5 @@
 # animalZooProgram
-Final program option for Python programming
+Final program option for Python Programming
 
 CIT-95 Final Program (Zoo Option) 
 youTube presentation of code and working program due December 9, 11:59 PM.
